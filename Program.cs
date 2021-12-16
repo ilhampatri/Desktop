@@ -10,6 +10,7 @@ namespace DasarCSharp
         public static IdentitasPenting idp = new IdentitasPenting();
         static void Main(string[] args)
         {
+            Console.WriteLine("");
             Console.WriteLine("     ================================     ");
             Console.WriteLine("     |Silahkan Login Terlebih Dahulu|     ");
             Console.WriteLine("     ================================     ");
